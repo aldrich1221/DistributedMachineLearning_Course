@@ -1,0 +1,14 @@
+<export>
+  <head>
+    <meta name="class" value="Press Tap"/>
+    <meta name="userID" value="11"/>
+    </head>
+  <datas>
+    <data id="45" xNorm="0.411294352823588" yNorm="0.614942528735632" t="0"/>
+    <data id="46" xNorm="0.394552723638181" yNorm="0.0366931918656057" t="0"/>
+    <data id="45" xNorm="0.411044477761119" yNorm="0.614942528735632" t="9"/>
+    <data id="45" xNorm="0.409795102448776" yNorm="0.614942528735632" t="19"/>
+    <data id="45" xNorm="0.409795102448776" yNorm="0.614942528735632" t="29"/>
+    <data id="45" xNorm="0.409795102448776" yNorm="0.614942528735632" t="132"/>
+  </datas>
+</export>

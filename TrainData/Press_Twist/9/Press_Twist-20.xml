@@ -1,0 +1,14 @@
+<export>
+  <head>
+    <meta name="class" value="Press Twist"/>
+    <meta name="userID" value="9"/>
+    </head>
+  <datas>
+    <data id="31" xNorm="0.343078460769615" yNorm="0.326259946949602" t="0"/>
+    <data id="31" xNorm="0.343078460769615" yNorm="0.326259946949602" t="9"/>
+    <data id="31" xNorm="0.343078460769615" yNorm="0.326259946949602" t="19"/>
+    <data id="31" xNorm="0.343078460769615" yNorm="0.326259946949602" t="28"/>
+    <data id="31" xNorm="0.343078460769615" yNorm="0.326259946949602" t="38"/>
+    <data id="31" xNorm="0.343078460769615" yNorm="0.326259946949602" t="131"/>
+  </datas>
+</export>

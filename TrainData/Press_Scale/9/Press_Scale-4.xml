@@ -1,0 +1,12 @@
+<export>
+  <head>
+    <meta name="class" value="Press Scale"/>
+    <meta name="userID" value="9"/>
+    </head>
+  <datas>
+    <data id="6" xNorm="0.246126936531734" yNorm="0.243589743589744" t="0"/>
+    <data id="6" xNorm="0.246126936531734" yNorm="0.243589743589744" t="9"/>
+    <data id="6" xNorm="0.246126936531734" yNorm="0.243589743589744" t="19"/>
+    <data id="6" xNorm="0.246126936531734" yNorm="0.243589743589744" t="80"/>
+  </datas>
+</export>

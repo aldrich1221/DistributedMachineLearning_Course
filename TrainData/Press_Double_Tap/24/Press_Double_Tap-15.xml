@@ -1,0 +1,11 @@
+<export>
+  <head>
+    <meta name="class" value="Press Double Tap"/>
+    <meta name="userID" value="24"/>
+    </head>
+  <datas>
+    <data id="36" xNorm="0.486256871564218" yNorm="0.214412024756852" t="0"/>
+    <data id="36" xNorm="0.486256871564218" yNorm="0.214412024756852" t="10"/>
+    <data id="36" xNorm="0.486256871564218" yNorm="0.214412024756852" t="87"/>
+  </datas>
+</export>

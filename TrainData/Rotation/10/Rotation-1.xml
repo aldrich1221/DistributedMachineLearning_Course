@@ -1,0 +1,16 @@
+<export>
+  <head>
+    <meta name="class" value="Rotation"/>
+    <meta name="userID" value="10"/>
+    </head>
+  <datas>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="0"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="10"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="20"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="30"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="40"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="50"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="60"/>
+    <data id="0" xNorm="0.874062968515742" yNorm="0.368258178603006" t="122"/>
+  </datas>
+</export>

@@ -1,0 +1,15 @@
+<export>
+
+<head>
+<meta name="class" value="Press Twist"/>
+<meta name="userID" value="22"/>
+</head>
+<datas>
+<data id="24" xNorm="0.6121347941567052" yNorm="0.8897386112029511" t="0"/>
+<data id="24" xNorm="0.6121347941567052" yNorm="0.8897386112029511" t="16"/>
+<data id="24" xNorm="0.6121347941567052" yNorm="0.8897386112029511" t="32"/>
+<data id="24" xNorm="0.6121347941567052" yNorm="0.8897386112029511" t="47"/>
+<data id="24" xNorm="0.6118754150066416" yNorm="0.8902395479546733" t="47"/>
+<data id="24" xNorm="0.6118754150066416" yNorm="0.8902395479546733" t="79"/>
+</datas>
+</export>
